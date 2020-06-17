@@ -7,6 +7,7 @@ The objetif is to use visuals to understand how similar is synthetic data genera
 
 ### This reposotory contains:
 1. firstpageloadmodel: contain the model that generate synthetic data out of the real data
-![Image of Daniela] (https://github.com/dmatinho/gui_synthetic_data/blob/master/generator.PNG)
+
+![Image of generator] (https://github.com/dmatinho/gui_synthetic_data/blob/master/generator.PNG)
 
 2. grpah: contains all the visuals to evaluate how similar real and syntehtic data are

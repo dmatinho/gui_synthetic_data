@@ -11,7 +11,7 @@ The objetif is to use visuals to understand how similar is synthetic data genera
 3. We selected a few grpahs that we thought were easier to understand how similar the real and synthetic data are
 
 #### Generator:
-This windows has a pre-buildit CT-GAN model to generate synthetic tabular data taking in account the characteristics of the input data. The main goal is to generated synthetic data out or the real data as similar as possible (similar distribution, features...)
+This windows has a pre-buildit CT-GAN model to generate synthetic tabular data taking in account the characteristics of the input data. The main goal is to generated synthetic data out or the real data as similar as possible (similar distribution...)
 <img src="./images/rsz_generator.png">
 
 #### Validation:

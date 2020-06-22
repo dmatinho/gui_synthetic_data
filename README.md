@@ -9,3 +9,5 @@ The objetif is to use visuals to understand how similar is synthetic data genera
 1. firstpageloadmodel: contain the model that generate synthetic data out of the real data
 
 2. grpah: contains all the visuals to evaluate how similar real and syntehtic data are
+<img src="./images/preprocess.png" width="450">
+https://github.com/dmatinho/gui_synthetic_data/blob/master/validation.PNG

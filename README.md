@@ -5,8 +5,16 @@ The objetif is to use visuals to understand how similar is synthetic data genera
 
 ### Group poject: Daniela Matinho (myself), Carrie Lu, Hannah Kerr, and Yuling Gu
 
+### Below you can see how the interface looks like.
+1. You can generate any quantity of data points you wish (if the number is large, it might take longer)
+2. Once the synthetic data is generated, the second window will appear automatically
+3. We selected a few grpahs that we thought were easier to understand how similar the real and synthetic data are
+Generator:
+<img src="./images/rsz_generator.png">
+Validation:
+<img src="./images/rsz_1validation.png">
+
 ### This reposotory contains:
 1. firstpageloadmodel: contain the model that generate synthetic data out of the real data
-
 2. grpah: contains all the visuals to evaluate how similar real and syntehtic data are
-<img src="./images/rsz_1validation.png">
+3. Images

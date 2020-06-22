@@ -18,7 +18,7 @@ This windows has a pre-buildit CT-GAN model to generate synthetic tabular data t
 This windows appears once the data is generated and it is composed of the log mean and log standard deviation of real and synthetic data. In addition, it has the comparasion of few categorical variables from the dataset as well as the correlation among different variables in the real and synthetic datasets.
 <img src="./images/rsz_1validation.png">
 
-### This reposotory contains:
+### This repository contains:
 1. firstpageloadmodel: contain the model that generate synthetic data out of the real data
 2. grpah: contains all the visuals to evaluate how similar real and syntehtic data are
 3. Images
